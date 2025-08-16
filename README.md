@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rizqi Ahsan Setiawan</h1>
 <h3 align="center">Ctrl+C & Ctrl+V Engineer</h3>
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rzkynt&label=Profile%20views&color=0e75b6&style=flat" alt="rzkynt" /> </p>
-
+-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rzkynt" alt="rzkynt" /></a> </p>
 
 - 🔭 I’m currently working on [Knowledge Management System](https://apotech.ct.ws/)
